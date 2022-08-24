@@ -14,7 +14,7 @@ export default async (req, res) => {
       name: "Youtube",
       description:
         "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 3 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://youtube.com/UmutBayraktarYT",
+      link: "https://www.youtube.com/channel/UC6apl7xWTB1duHS4fkwDQYQ",
     },
      {
       id: 3,
