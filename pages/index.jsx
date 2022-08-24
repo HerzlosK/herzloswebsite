@@ -30,7 +30,7 @@ I am a professional web designer and software developer. I have been professiona
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="umutbayraktar" src={`https://cdn.discordapp.com/attachments/964511184827088926/1001813324238946425/Ekran_goruntusu_2022-07-27_142622.png`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="emrearıkan | herzlos.xw" src={`https://cdn.discordapp.com/attachments/964511184827088926/1001813324238946425/Ekran_goruntusu_2022-07-27_142622.png`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
@@ -56,7 +56,7 @@ I am a professional web designer and software developer. I have been professiona
                   .map((_, __) => (
                     <a
                       key={__}
-                      href={`https://github.com/umutxyp/`+_.name}
+                      href={`https://github.com/herzlosxw/`+_.name}
                       target="_blank"
                       rel="noreferrer"
                       className="bg-[#191932]/20 p-4 hover:bg-[#191932]/30 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full"
