@@ -26,11 +26,11 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-I am a professional web designer and software developer. I have been professionally interested in community management and development for 3 years, I have high level knowledge and experience in areas such as community management and social media management.
+I am a professional web designer and javascript developer. I have been professionally interested in community management and development for 3 years, I have high level knowledge and experience in areas such as community management and social media management.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="emrearıkan | herzlos.xw" src={`https://cdn.discordapp.com/attachments/964511184827088926/1012014193106485278/a_38e01bc632ab64775995b5d7eda6900d.gif`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="emrearıkan | herzlos.xw" src={`https://cdn.discordapp.com/attachments/995407259125416096/1148274178601001101/1ecbeb34abe88aaaccba509e2653a629.png`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
